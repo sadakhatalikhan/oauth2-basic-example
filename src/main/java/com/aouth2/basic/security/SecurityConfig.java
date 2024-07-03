@@ -35,5 +35,6 @@ public class SecurityConfig {
 
     private ClientRegistration googleClientRegistration() {
         return null;
+
     }
 }
